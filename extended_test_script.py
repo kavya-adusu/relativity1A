@@ -1,5 +1,7 @@
-# this is just a script where the parsing is added on and there is a loop (i always hit quota and its not consistent so i have decided not to use this)
-# -----------------------------
+# Description: this is just a script where the parsing is added on and there is a loop 
+# (i always hit quota and its not consistent in its connection errors with gemini
+# so i have decided not to use this)
+# ----------------------------------------------------------------------------
 import google.generativeai as genai
 import json
 from datetime import datetime
