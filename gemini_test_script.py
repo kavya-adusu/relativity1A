@@ -1,3 +1,6 @@
+ # Description: this is the main file used to run the tests and connect with Gemnini 
+# but is missing the parsing of json output to csv (this file for json-> csv results_parsing_script.py)
+
 import google.generativeai as genai
 import json
 from datetime import datetime
