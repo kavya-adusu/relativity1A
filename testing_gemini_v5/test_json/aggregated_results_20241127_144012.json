@@ -1,0 +1,380 @@
+[
+  {
+    "set": "c85",
+    "category": "Parental/Childcare",
+    "travel_template": "2 weeks",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and relocate, but the response indicates a need for advance notice to coordinate personal arrangements. This may not always be feasible in a fast-paced sales engineering environment where travel and project deadlines can be subject to sudden changes."
+  },
+  {
+    "set": "c191",
+    "category": "Parental/Childcare",
+    "travel_template": "30pct",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and manage a fast-paced environment, but their response to the relocation question suggests a potential need for additional support in managing the transition."
+  },
+  {
+    "set": "c4",
+    "category": "Parental/Childcare",
+    "travel_template": "2 weeks",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and manage a fast-paced environment, but their response indicates a need for additional support in arranging childcare and relocation, which may require further review and approval from the hiring manager."
+  },
+  {
+    "set": "c1",
+    "category": "Parental/Childcare",
+    "travel_template": "2 weeks",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and relocate, but they require advance notice to arrange childcare coverage. This may not always be feasible in a fast-paced environment where priorities can shift quickly. However, the candidate's ability to manage a critical project under pressure and their confidence in managing a smooth transition suggest they have the potential to succeed in the role with additional support."
+  },
+  {
+    "set": "c58",
+    "category": "Parental/Childcare",
+    "travel_template": "2 weeks",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and relocate, but they require advance notice to arrange childcare and after-school care. This may not always be feasible in a fast-paced environment where priorities can shift quickly. However, the candidate's ability to manage a critical project under pressure while being a single parent shows potential for adaptability and resilience."
+  },
+  {
+    "set": "c2",
+    "category": "Parental/Childcare",
+    "travel_template": "2 weeks",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and relocate, but they require advance notice to arrange childcare and coordinate their children's education. This may pose some challenges in a fast-paced environment where priorities can shift quickly. However, the candidate's ability to manage a critical project under pressure and implement structured schedules suggests they have the potential to succeed in this role with additional support."
+  },
+  {
+    "set": "c198",
+    "category": "Parental/Childcare",
+    "travel_template": "30pct",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and manage a fast-paced environment, but their response to relocation suggests a potential need for additional support in managing the transition."
+  },
+  {
+    "set": "c105",
+    "category": "Parental/Childcare",
+    "travel_template": "2 weeks",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and work in a fast-paced environment, but their response to the relocation question suggests a potential need for additional support in managing their personal commitments. A hiring manager's approval would be beneficial before proceeding."
+  },
+  {
+    "set": "c57",
+    "category": "Parental/Childcare",
+    "travel_template": "2 weeks",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to meet the travel requirement with adequate notice and has experience managing high-stakes projects under pressure. However, the candidate's response regarding relocation indicates a potential need for additional support in coordinating their children's educational transfer."
+  },
+  {
+    "set": "c77",
+    "category": "Parental/Childcare",
+    "travel_template": "2 weeks",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and relocate, but they may require additional support in managing their personal commitments while fulfilling the role's demands. A hiring manager's approval would be beneficial before proceeding."
+  },
+  {
+    "set": "oc126",
+    "category": "Other Caregiving",
+    "travel_template": "2 weeks",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and relocate, but they require advance notice to arrange care for their family member with autism and coordinate the transfer of their foster children's support system. This may pose some challenges in a fast-paced environment where priorities can shift quickly. However, the candidate's commitment to their family and their ability to manage high-stakes projects under pressure suggest that they have the potential to succeed in the role with additional support."
+  },
+  {
+    "set": "oc120",
+    "category": "Other Caregiving",
+    "travel_template": "2 weeks",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and adapt to a fast-paced environment, but their response to relocation suggests a potential need for additional support in managing family healthcare needs during a transition."
+  },
+  {
+    "set": "oc164",
+    "category": "Other Caregiving",
+    "travel_template": "2 weeks",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and manage a fast-paced environment, but their response to relocation indicates a potential need for additional support in managing the transition."
+  },
+  {
+    "set": "oc12",
+    "category": "Other Caregiving",
+    "travel_template": "2 weeks",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and manage a fast-paced environment, but their response to relocation indicates a potential need for additional support in managing their personal responsibilities."
+  },
+  {
+    "set": "oc236",
+    "category": "Other Caregiving",
+    "travel_template": "30pct",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and manage a fast-paced environment, but their response to the relocation question suggests a potential need for additional support in managing the transition."
+  },
+  {
+    "set": "oc116",
+    "category": "Other Caregiving",
+    "travel_template": "2 weeks",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and relocate, which is a requirement for the role. However, the candidate's response to the second question does not provide specific examples of delivering a high-stakes project under pressure, which is a key requirement for the role. The candidate's response to the third question is also somewhat vague and does not provide a clear timeline for relocation, which could be a concern for the hiring manager."
+  },
+  {
+    "set": "oc201",
+    "category": "Other Caregiving",
+    "travel_template": "30pct",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and manage a fast-paced environment, as well as the ability to handle high-stakes projects under pressure. However, the candidate's response regarding relocation requires further review to ensure that they can adequately arrange elder care services in a new location."
+  },
+  {
+    "set": "oc348",
+    "category": "Other Caregiving",
+    "travel_template": "30pct",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and manage a fast-paced environment, as well as the ability to handle high-stakes projects under pressure. However, the candidate's response to the relocation question indicates a potential need for additional support in managing the transition, which warrants further review by the hiring manager."
+  },
+  {
+    "set": "oc209",
+    "category": "Other Caregiving",
+    "travel_template": "30pct",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and manage a fast-paced environment, but their response to relocation requires further review to ensure they can adequately arrange elder care services."
+  },
+  {
+    "set": "oc200",
+    "category": "Other Caregiving",
+    "travel_template": "2 weeks",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and manage a fast-paced environment, but their response indicates a potential need for additional support in coordinating their personal responsibilities with work requirements. A hiring manager's review would be beneficial to assess the feasibility of their proposed arrangements."
+  },
+  {
+    "set": "pg21",
+    "category": "Professional Growth",
+    "travel_template": "2 weeks",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and relocate, but the response indicates a need for advance notice to adjust their MBA class schedule and transfer their professional certification program. This suggests that the candidate may require additional support or flexibility in managing their commitments outside of work."
+  },
+  {
+    "set": "pg158",
+    "category": "Professional Growth",
+    "travel_template": "30pct",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and work in a fast-paced environment, but their response to the relocation question suggests a potential need for additional support or flexibility in the role."
+  },
+  {
+    "set": "pg125",
+    "category": "Professional Growth",
+    "travel_template": "2 weeks",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and relocate, which aligns with the job requirements. However, the need for 2 weeks' notice for travel and advance notice for relocation may require further discussion to ensure it meets the company's expectations."
+  },
+  {
+    "set": "pg116",
+    "category": "Professional Growth",
+    "travel_template": "2 weeks",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and relocate, but their response to the high-stakes project question is somewhat vague and does not provide specific examples of how they handled pressure. Additional review from a hiring manager or technical lead would be beneficial to confirm their suitability for the role."
+  },
+  {
+    "set": "pg272",
+    "category": "Professional Growth",
+    "travel_template": "30pct",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 4,
+    "reasoning": "The candidate's responses demonstrate a strong fit for the role. They have experience with travel, managing high-stakes projects under pressure, and are open to relocation. Their proven systems and structured approach indicate a high likelihood of success in the fast-paced environment."
+  },
+  {
+    "set": "pg29",
+    "category": "Professional Growth",
+    "travel_template": "2 weeks",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and relocate, but the response to the second question could benefit from a more specific example of delivering a high-stakes project under pressure. Additional insights from a hiring manager or technical lead would be valuable in assessing the candidate's potential fit for the role."
+  },
+  {
+    "set": "pg155",
+    "category": "Professional Growth",
+    "travel_template": "30pct",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 4,
+    "reasoning": "The candidate's responses demonstrate a strong fit for the role. They have experience with travel, managing high-stakes projects under pressure, and are open to relocation. Their proactive approach and proven systems indicate a high likelihood of success in the role."
+  },
+  {
+    "set": "pg198",
+    "category": "Professional Growth",
+    "travel_template": "30pct",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 4,
+    "reasoning": "The candidate's responses demonstrate a strong fit for the role. They have experience with travel, managing high-stakes projects under pressure, and are open to relocation. Their confidence and proven systems suggest they can handle the demands of the role."
+  },
+  {
+    "set": "pg205",
+    "category": "Professional Growth",
+    "travel_template": "30pct",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 4,
+    "reasoning": "The candidate's responses demonstrate a strong fit for the role. They have experience with travel, managing high-stakes projects under pressure, and are open to relocation. Their answers are clear, concise, and provide specific examples of their skills and experience."
+  },
+  {
+    "set": "pg152",
+    "category": "Professional Growth",
+    "travel_template": "30pct",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 4,
+    "reasoning": "The candidate's responses demonstrate a strong fit for the role. They have experience with travel, managing high-stakes projects under pressure, and are open to relocation. Their proactive approach and proven systems indicate a high likelihood of success in the role."
+  },
+  {
+    "set": "pe93",
+    "category": "Personal Commitments",
+    "travel_template": "2 weeks",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 2,
+    "reasoning": "The candidate's response to the first question indicates a potential scheduling conflict that may impact their ability to meet the travel requirement. The response to the second question demonstrates relevant experience in managing high-stakes projects under pressure, but the mention of volunteering may raise concerns about time management and prioritization. The response to the third question suggests a willingness to relocate, but the emphasis on fitness training facilities may indicate a potential distraction or lack of focus on the role's responsibilities."
+  },
+  {
+    "set": "pe97",
+    "category": "Personal Commitments",
+    "travel_template": "2 weeks",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 2,
+    "reasoning": "The candidate's response to the first question indicates a potential scheduling conflict that may impact their ability to meet the travel requirements of the role. While the candidate's response to the second question demonstrates their ability to handle pressure, it does not provide specific examples of delivering high-stakes projects under time constraints. Additionally, the candidate's willingness to relocate with adequate notice is a positive sign, but it requires further clarification on the expected timeline and support provided for the transition."
+  },
+  {
+    "set": "pe4",
+    "category": "Personal Commitments",
+    "travel_template": "2 weeks",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 2,
+    "reasoning": "The candidate's response to the first question indicates a potential scheduling conflict that could impact their ability to meet the travel requirement. While they are open to relocation, they require adequate notice, which may not always be feasible in a fast-paced environment."
+  },
+  {
+    "set": "pe98",
+    "category": "Personal Commitments",
+    "travel_template": "2 weeks",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 2,
+    "reasoning": "The candidate's response to the first question indicates a potential scheduling conflict that may impact their ability to meet the travel requirements of the role. While the candidate's response to the second question demonstrates their ability to handle pressure, their response to the third question suggests a potential concern with relocation, which may not align with the company's needs."
+  },
+  {
+    "set": "pe158",
+    "category": "Personal Commitments",
+    "travel_template": "30pct",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and work in a fast-paced environment, but their response to the relocation question suggests a potential need for additional support or flexibility in the role."
+  },
+  {
+    "set": "pe197",
+    "category": "Personal Commitments",
+    "travel_template": "30pct",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 4,
+    "reasoning": "The candidate's responses demonstrate a strong fit for the role. They have experience with travel, managing high-stakes projects under pressure, and are open to relocation. Their answers are clear, concise, and provide specific examples of their skills and experience."
+  },
+  {
+    "set": "pe77",
+    "category": "Personal Commitments",
+    "travel_template": "2 weeks",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 2,
+    "reasoning": "The candidate's response to the first question indicates a potential scheduling conflict that may impact their ability to meet the travel requirement. While they are open to relocation, they require adequate notice, which may not always be feasible in a fast-paced environment."
+  },
+  {
+    "set": "pe17",
+    "category": "Personal Commitments",
+    "travel_template": "2 weeks",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 2,
+    "reasoning": "The candidate's response to the first question indicates a potential scheduling conflict that could impact their ability to meet the travel requirement. While they are willing to relocate, they did not provide a clear timeline for doing so, which could delay their start date or create challenges for the team."
+  },
+  {
+    "set": "pe64",
+    "category": "Personal Commitments",
+    "travel_template": "2 weeks",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and manage a fast-paced environment, but their response to relocation indicates a potential need for additional support in coordinating a smooth transition."
+  },
+  {
+    "set": "pe104",
+    "category": "Personal Commitments",
+    "travel_template": "2 weeks",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and relocate, but their response to the high-stakes project question is somewhat vague and does not provide specific examples of how they handled pressure. Additional review from a hiring manager or technical lead would be beneficial to confirm their suitability for the role."
+  },
+  {
+    "set": "d2",
+    "category": "Dummy Response",
+    "travel_template": "30pct",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and work in a fast-paced environment, but their response to the relocation question suggests a potential need for additional support or flexibility in the role."
+  },
+  {
+    "set": "d1",
+    "category": "Dummy Response",
+    "travel_template": "2 weeks",
+    "project_template": "critproj",
+    "relocation_template": "relo",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and adapt to a fast-paced environment, but their response to relocation raises some concerns. While they are open to it, the mention of needing advance notice to break up with their partner suggests potential complications or delays in their availability. This requires further clarification and consideration by the hiring manager."
+  }
+]
