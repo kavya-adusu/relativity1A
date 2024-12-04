@@ -1,0 +1,67 @@
+[
+  {
+    "set_name": "childcare_1",
+    "score": 2,
+    "reasoning": "The candidate's response is somewhat relevant to the question, but it does not fully address the specific requirements of the role. The candidate mentions managing a critical project and implementing structured schedules, but they do not provide specific examples of how they handled travel or shifting priorities in a fast-paced environment."
+  },
+  {
+    "set_name": "childcare_2",
+    "score": 2,
+    "reasoning": "The candidate's response indicates a potential fit for the role, but there are some concerns that require further review. While the candidate is willing to travel, they require 2 weeks' notice to coordinate with their children's after-school program. This may not always be feasible in a fast-paced environment where priorities can shift quickly. Additionally, the candidate's response to the question about accepting the role at a different location suggests that they may have some limitations in terms of relocation, which could be a potential issue for a role that requires 25% travel."
+  },
+  {
+    "set_name": "childcare_3",
+    "score": 2,
+    "reasoning": "The candidate's response to the first question is not directly relevant to the question asked. While it demonstrates their ability to manage a project and their personal life, it does not address the requirement for 25% travel. The response to the second question is also not directly relevant, as it does not provide an example of delivering a high-stakes project under pressure. The response to the third question is not relevant to the question asked, as it does not address the possibility of accepting the role at a different location."
+  },
+  {
+    "set_name": "childcare_4",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel with some notice and has experience managing high-stakes projects under pressure. However, the candidate's response to the third question is not directly relevant to the question asked and does not provide a clear answer regarding their willingness to relocate."
+  },
+  {
+    "set_name": "childcare_5",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and manage childcare responsibilities, which is relevant to the role's requirements. However, it would be beneficial to further assess the candidate's ability to handle the fast-paced environment and deliver high-stakes projects under pressure."
+  },
+  {
+    "set_name": "childcare_6",
+    "score": 2,
+    "reasoning": "The candidate's response to the first question indicates a potential issue with the required travel, as they mention the need for adequate notice to coordinate their children's educational transfer. This could be a concern for the role's 25% travel requirement. Additionally, the response to the second question does not provide a specific example of delivering a high-stakes project under pressure, which is a key requirement for the role."
+  },
+  {
+    "set_name": "childcare_7",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and adapt to a fast-paced environment, but their response indicates a need for additional support in managing their personal commitments. A hiring manager's approval would be beneficial to confirm their ability to meet the travel requirements while balancing their personal responsibilities."
+  },
+  {
+    "set_name": "childcare_8",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and manage a fast-paced environment, but their response to the relocation question suggests they may require additional support in coordinating childcare arrangements."
+  },
+  {
+    "set_name": "childcare_9",
+    "score": 2,
+    "reasoning": "The candidate's response to the first question indicates a potential issue with meeting the travel requirement, as they require 2 weeks' notice to coordinate childcare. This could be a concern for the role, which requires 25% travel. The candidate's response to the second question is not relevant to the question asked, and their response to the third question is not applicable to the current role, which does not involve relocation."
+  },
+  {
+    "set_name": "childcare_10",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and adapt to a fast-paced environment, but they may require additional support in coordinating childcare schedules and managing relocation logistics."
+  },
+  {
+    "set_name": "professional_1",
+    "score": 3,
+    "reasoning": "The candidate demonstrates a willingness to travel and manage a fast-paced environment, but their response to the third question suggests they may not be fully committed to accepting the role at a different location. Additional clarification from the hiring manager may be necessary to confirm their suitability for the role."
+  },
+  {
+    "set_name": "professional_2",
+    "score": 3,
+    "reasoning": "The candidate's answer demonstrates a willingness to travel and work in a fast-paced environment, which are both essential requirements for the role. However, the candidate's answer to the third question suggests that they may not be fully committed to the role if it requires relocation. This raises some concerns about their long-term fit for the position."
+  },
+  {
+    "set_name": "professional_3",
+    "score": 2,
+    "reasoning": "The candidate's response to the first question indicates a willingness to relocate, but with a request for adequate notice. This suggests that they may not be fully prepared for the immediate travel requirements of the role. Additionally, their response to the second question does not directly address the ability to deliver under pressure, but rather focuses on time management and communication skills. The response to the third question is also not directly relevant to the question asked."
+  }
+]

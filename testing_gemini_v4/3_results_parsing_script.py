@@ -1,5 +1,3 @@
-# Description: this script is run after the test script is run to go from
-# json -> csv
 import json
 import csv
 

@@ -1,11 +1,11 @@
- # Description: this is the main file used to run the tests and connect with Gemnini 
-# but is missing the parsing of json output to csv (this file for json-> csv results_parsing_script.py)
-
 import google.generativeai as genai
 import json
 from datetime import datetime
 import time
 
+# add a column named format so we know what set of answers its from for that question
+# Also please ensure that the responses are mapped to the proper keys in the json: childcare_3,
+# for example, seems to have the project, travel, and relocation entries shuffled.
 
 # Configure Gemini API
 genai.configure(api_key='AIzaSyBycfSa4F_1Mvw1I3nF2s3JYnYAS5Ynhtg')
@@ -103,11 +103,16 @@ def run_tests():
     request_count = 0
     max_requests_per_minute = 15
 
+    # instead of just writing JUST the results , we want to aggreagate it to the information use in THAT run to the prompt 
+    #information being the profile/name we dont want to pass it to trigger the model
+    # but we need to be able to join the sent and return info 
+    #rememver the fast food example where we had the order and the response but the middle man was the model and they dont need tgo know your name 
     for test_set in test_sets:
         result = evaluate_candidate(test_set)
         if result:
             results.append(result)
             request_count += 1  # Increment the request count
+
 
             # Print immediate results
             print(f"\nTest Set: {result['set_name']}")

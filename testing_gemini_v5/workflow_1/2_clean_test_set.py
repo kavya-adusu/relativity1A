@@ -1,8 +1,8 @@
 import json
 
 # File paths
-input_file_path = 'test_sets.json'
-output_file_path = 'test_sets_cleaned.json'
+input_file_path = 'all_possible_test_sets.json'
+output_file_path = 'all_test_sets_cleaned.json'
 # Load the JSON file
 with open(input_file_path, 'r') as file:
     data = json.load(file)
@@ -31,3 +31,5 @@ print(f"Cleaned JSON saved to {output_file_path}")
 # Verify cleaned data
 for entry in cleaned_data[:5]:  # Print first 5 entries for debugging
     print(entry)
+#print total of cleaned test sets
+print(f"Total test sets: {len(cleaned_data)}")

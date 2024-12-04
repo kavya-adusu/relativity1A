@@ -3,7 +3,7 @@ import json
 import itertools
 
 # Load the CSV file
-csv_path = 'Relativity1A_Question_Template.csv'
+csv_path = 'testing_gemini_v5/Relativity1A_Question_Template.csv'
 data = pd.read_csv(csv_path)
 
 # Separate data by Question Number
@@ -32,17 +32,18 @@ def generate_all_combinations():
         combinations = itertools.product(travel_answers, project_answers, relocation_answers)
 
         # Generate set names and append to the test_sets list
-        prefix = {
-            'Parental/Childcare': 'c',
-            'Other Caregiving': 'oc',
-            'Professional Growth': 'pg',
-            'Personal Commitments': 'pe',
-            'Dummy Response': 'd',
-            'Combined Responsibilities': 'cr'
-        }.get(category, 'unknown')
+        prefix_map = {
+            'Parental/Childcare': 'childcare',
+            'Other Caregiving': 'caregiving',
+            'Professional Growth': 'growth',
+            'Personal Commitments': 'personal',
+            'Dummy Response': 'dummy',
+            'Combined Responsibilities': 'combined'
+        }
+        prefix = prefix_map.get(category, 'unknown')
 
         for i, (travel, project, relocation) in enumerate(combinations, start=1):
-            set_name = f"{prefix}{i}"
+            set_name = f"{prefix}_{i}"
             test_sets.append({
                 "set": set_name,
                 "category": category,
@@ -66,8 +67,9 @@ def generate_all_combinations():
 all_test_sets = generate_all_combinations()
 
 # Save the test sets to a JSON file
-output_file = 'all_possible_test_sets_with_templates.json'
+output_file = 'all_test_sets_with_labels.json'
 with open(output_file, 'w') as f:
     json.dump(all_test_sets, f, indent=2)
 
 print(f"Generated {len(all_test_sets)} test sets saved to {output_file}")
+print("Total number of test sets: ", len(all_test_sets))
